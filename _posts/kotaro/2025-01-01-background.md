@@ -1,13 +1,17 @@
 ---
 layout: post
 title: "Background"
-date: 2025-07-12
+date: 2025-01-01
 categories: kotaro
 ---
 
 ## Basics
+- Birth Name: K'tiqa Tia
 - Age: 26 (post-ARR)
 - Height: 160cm
+- Nameday: 13th Sun of the 3rd Umbral Moon (12 June)
+- Race: Miqo'te, Seeker of the Sun
+- Grand Company: Maelstrom
 - Deity: Llymlaen
 - Hometown: Upper La Noscea
 - Siblings: 2 sisters
@@ -22,7 +26,7 @@ categories: kotaro
     - Meets Baderon, Mikh'to, Scions of the Seventh Dawn
 - 26: Post-ARR
     - Becomes sworn brothers with Haurchefant
-    - Picks up the Dragoon
+    - Picks up Dragoon
 
 - Heavensward:
     - Post Vault: Picks up Paladin

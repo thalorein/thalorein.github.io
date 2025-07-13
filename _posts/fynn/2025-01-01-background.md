@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Background"
-date:   2025-07-12
+date:   2025-01-01
 categories: fynn
 ---
 
 ## Basics
+- Birth Name: Fofowaje Rarawaje
 - Age: 22 (post-ARR)
 - Height: 92cm
 - Deity: Nald'thal
