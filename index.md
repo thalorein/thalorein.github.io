@@ -44,6 +44,12 @@ title: Homepage
         <li><a href="{{ post.url }}">{{ post.title }}</a> <small>({{ post.date | date: "%Y-%m-%d" }})</small></li>
       {% endfor %}
     </ul>
+
+    <h3>Art Credits</h3>
+    <ul>
+      <li>Homepage Banner: @crazy_garden (フジ) </li>
+      <li>Profile Picture: @Vxiv4v (ばる) </li> 
+    </ul>
   </section>
 
   <section id="fynn" class="character">
@@ -70,6 +76,12 @@ title: Homepage
         <li><a href="{{ post.url }}">{{ post.title }}</a> <small>({{ post.date | date: "%Y-%m-%d" }})</small></li>
       {% endfor %}
     </ul>
+
+    <h3>Art Credits</h3>
+    <ul>
+      <li>Homepage Banner: @monorajimaru (まる) </li>
+      <li>Profile Picture: @natus_vincer (Natus) </li> 
+    </ul>
   </section>
 
   <section id="takuto" class="character">
@@ -95,6 +107,12 @@ title: Homepage
       {% for post in takuto_posts %}
         <li><a href="{{ post.url }}">{{ post.title }}</a> <small>({{ post.date | date: "%Y-%m-%d" }})</small></li>
       {% endfor %}
+    </ul>
+
+    <h3>Art Credits</h3>
+    <ul>
+      <li>Homepage Banner: @herahemO (へらよし) </li>
+      <li>Profile Picture: @holysarvel (メリー) </li> 
     </ul>
   </section>
 
