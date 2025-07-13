@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+:root {
+  --bg-dark:  #ffffff;   /* body background → white          */
+  --bg-alt:   #f7f7f7;   /* alternating sections → light-grey */
+  --text-main:#222222;   /* normal text → near-black          */
+  --text-muted:#666666;  /* muted/caption text                */
+  --accent:   #000000;   /* highlights & active nav links     */
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--bg-dark);
+  color: var(--text-main);
+  scroll-behavior: smooth;
+}
+
+/* --- Header / Nav --- */
+#site-header {
+  position: fixed;
+  inset: 0 0 auto 0; /* stick to top */
+  background: #fffffff0;
+  backdrop-filter: blur(6px);
+  z-index: 1000;
+}
+
+/* Header divider */
+#site-header::after {
+  content: "";
+  display: block;
+  width: 60%;
+  height: 1px;
+  background: #ccc;
+  margin: 0 auto;
+}
+
+#site-header ul {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 1rem 0;
+  list-style: none;
+}
+
+#site-header a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color .2s;
+}
+#site-header a:hover,
+#site-header a.active { color: var(--accent); }
+
+/* ========= Header pill buttons ========= */
+#site-header ul { 
+    gap: 1rem;  /* more air between pills */
+    flex-wrap: wrap; /* allow wrapping if screen is too narrow */
+    justify-content: center; /* keep them centered */ 
+}
+
+#site-header a {
+  /* geometry */
+  display: inline-block;
+  padding: .55rem 1.5rem;
+  border: 1.9px solid #c5c5c5;
+  border-radius: 2rem; /* perfect “capsule” */
+  /* type */
+  font-family: 'Poppins', sans-serif;
+  font-size: .78rem;
+  font-weight: 500;
+  letter-spacing: .28em;
+  text-transform: uppercase;
+  /* colour */
+  color: #757575;
+  text-decoration: none;
+  transition: border-color .18s ease, color .18s ease;
+}
+
+/* hover / focus */
+#site-header a:hover {
+  border-color: #2196f3; /* blue outline */
+  color: #2196f3; /* blue text */
+}
+
+/* active (current section) — toggle in js */
+#site-header a.active {
+  border-color: #2196f3;
+  color: #2196f3;
+}
+
+
+/* --- Base Section --- */
+section.base-content {
+  padding: 6.5rem 1rem 4rem; /* top = nav height + air */
+  width: 100%;
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+/* --- Post Section --- */
+section.post {
+  padding: 6.5rem 1rem 4rem; /* top = nav height + air */
+  width: 100%;
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+/* --- Home Section --- */
+
+.character-links {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.character-link img {
+  width: 200px; /* or whatever size you like */
+  height: auto;
+  filter: grayscale(100%) sepia(10%);
+  transition: filter 0.3s ease;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.character-link img:hover {
+  filter: grayscale(0%) sepia(0%);
+}
+
+/* --- Character Section --- */
+.character-container {
+  position: relative;
+  min-height: 400px; /* optional: ensures stable height during fade */
+}
+
+section.character {
+  padding: 6.5rem 1rem 4rem; /* top = nav height + air */
+  width: 100%;
+  max-width: 780px;
+  margin: 0 auto;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.8s ease;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.character {
+  will-change: opacity;
+}
+
+.character.active {
+  opacity: 1;
+  pointer-events: auto;
+  visibility: visible;
+  position: relative;
+}
+
+blockquote { margin: 0 0 1rem; font-style: italic; color: var(--accent); }
+
+.character-header {
+  display: flex;
+  align-items: center;
+}
+
+.character-text {
+  flex: 1; /* text takes remaining width */
+}
+
+.profile-pic {
+  float: right;
+  max-width: 300px;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%; /* circular picture */
+  aspect-ratio: 1 / 1; /* keeps it square if not already */
+  object-fit: cover; /* prevents stretching */
+  flex-shrink: 0;
+  margin-left: 1rem;
+  margin-top: 0.25rem; /* small downward nudge if needed */
+}
+
+.bio {
+  text-align: justify;
+}
+
+
+/* --- Footer --- */
+#site-footer {
+  text-align: center;
+  padding: 2rem 0;
+  font-size: .875rem;
+  color: var(--text-muted);
+}
+
+/* === Circle home button === */
+#site-footer a.home-button {
+  padding: 0;
+  border: 1.5px solid #c5c5c5;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #757575;
+  transition: border-color 0.18s ease, color 0.18s ease;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+
+/* Hover effect */
+#site-footer a.home-button:hover,
+#site-footer a.home-button.active {
+  border-color: #2196f3;
+  color: #2196f3;
+}
+
+#site-footer a.home-button svg {
+  width: 25px;
+  height: 25px;
+  display: block;
+  fill: currentColor;
+}
+
+/* --- Divider --- */
+hr.divider {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 0.25rem auto 0.1rem;
+  width: 60%;
+}
+
+
+/* --- Mobile tweaks --- */
+@media (max-width: 600px) {
+  section.character img { float: none; max-width: 100%; margin: 1rem 0 0; }
+  #site-header ul { flex-wrap: wrap; gap: 1rem; }
+}

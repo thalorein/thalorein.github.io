@@ -1,0 +1,1 @@
+An inhabitant of Scrap City, he is proficient in lightning magic. Paired together with his trusty tools, he uses them to repair robots and machines, which aid his quest.
