@@ -23,10 +23,14 @@ Also hoping that a change of scenery would give him a different perspective of l
 He chanced a look at the sky, noting again that it was snowing, and the sky was dark and grey. Utterly miserable weather by to his standards. He slowly came to a dawning realisation that despite the extreme weather differences between Ul’dah and Ishgard, his outlook of life had not changed one bit.
 
 
-Ul’dah may look like a city of dreams from the outside, but reality was far different and harsher than what outsiders thought. It was common knowledge among Ul'dahns like him that came from improvised backgrounds that one simply could not move up the ranks of society through pure meritocracy alone. Despite working as a mercenary and earning decent coin, he’d witnessed far too many cases of corruption around - things he chose to stay out of because simply, they were too troublesome and earned him nothing in return. He'd long accepted that such was the everyday reality of living in Ul'dah and that its government was simply blind to the struggles of her people. Or rather, they were simply ants in the grand scheme of things. 
+Ul’dah may look like a city of dreams from the outside, but reality was far different and harsher than what outsiders thought. It was common knowledge among Ul'dahns like him that one simply did not move up the ranks of society through pure meritocracy alone. Despite working as a mercenary and earning decent coin, he’d witnessed far too many cases of corruption around - things he chose to stay out of because simply, they were too troublesome and earned him nothing in return. He'd long accepted that such was the everyday reality of living in Ul'dah and that its government was simply blind to the struggles of her people. Or rather, they were simply ants in the grand scheme of things. 
 
 
-Ishgard, as he had found from his short time here, was not that much different from Ul’dah. There was a social hierarchy, the rich-poor divide was huge, and worst of all, corruption seemed rampant too, although in a different way. To top off all their problems, they were stuck in a millennia of war with the dragons. Everything about the city screamed bleak, from the weather to its circumstances. It was little wonder that F'ynn's mood remained sour despite coming here. F’ynn had rather started to suspect that the situation in Ul’dah was more the norm than not.
+Ishgard, as he had found from his short time here, was not that much different from Ul’dah. 
+
+In terms of the differences - Ishgardians were cold and aloof, Ul'dhans spoke their way through flattery and deceit.
+
+But that was where it ended - the social hierarchy, the huge rich-poor divide, and worst of all, rampant corruption - were the same, although presented in a different form. To top off all their problems, they were stuck in a millennia of war with the dragons. Everything about the city screamed bleak, from the weather to its circumstances. It was little wonder that F'ynn's mood remained sour despite coming here. F’ynn had rather started to suspect that the situation in Ul’dah was more the norm than not.
 
 
 He was sick and tired of the unchanging nature of life and his helplessness in being swept up with an unchanging, entrenched system. Yet despite that, he distantly thought that it would be nice to dream of something different. A different mentor. A different way of doing things. A mentor with wisdom and knowledge, who could guide him on a different path. Someone who was righteous and dared to challenge authority. Someone who could make real change in an entrenched system. He considered himself a realist, but maybe a small part of him hoped that his idealistic thoughts would come true. 
@@ -47,17 +51,17 @@ Were all heretics simply piles of armor? Or was it just a rumor after all? He di
 “Ask me to instruct you in the ways of the dark knights, and I will.”
 
 
-The word dark knight caught his attention. It was what the ishgardian man had mentioned earlier in the day, had he not? He wondered then and there if it was a good idea then to learn the ways of the dark knight. Would he learn anything meaningful? Would he gain more power to make a change? 
+The word dark knight caught his attention. It was what the Ishgardian man had mentioned earlier in the day, had he not? He wondered then and there if it was a good idea then to learn the ways of the dark knight. Would he learn anything meaningful? Would he gain more power to make a change? 
 
 
-After some pondering, he decided that the only way forward was to simply accept Fray's proposal and see where it led him to. After all, nothing was gained from sitting around.
+After some pondering, he decided that the only way forward was to simply accept Fray's proposal and see where it led him to. There was nothing stopping him too - he already had the right weapon that could turn into a greatsword for the skills needed of a Dark Knight - *Zantetsuken*. And, after all, nothing was gained from sitting around.
 
 --
 
-As he started his quest to rescue the maiden from the Brume, he started questioning if the chain of events that had happened was right. He had learnt a new skill as a dark knight, yes. But cutting down temple knights - was such an endeavor actually fruitful? Would this really effect long lasting change in a city as entrenched as Ishgard? Could he, as just one person, really make a difference to an entire city? Would his actions actually prevent a similar incident from happening again? Was there no better way to get rid of this problem once and for all?
+As he started his quest to rescue the maiden from the Brume, he started questioning if the chain of events that had happened was right. He had learnt several new skill as a dark knight, yes. Courtesy of the job stone, or Fray, he wasn't sure, given how everything blended itself together. But cutting down temple knights with floods of darkness - was such an endeavor actually fruitful? Would this really effect long lasting change in a city as entrenched as Ishgard? Could he, as just one person, really make a difference to an entire city? Would his actions actually prevent a similar incident from happening again? Was there no better way to get rid of this problem once and for all?
 
 
-Doubt crept through him. All he wanted was change, but he supposed that Shalayan was not built in a day after all.
+Doubt crept through him. All he wanted was change, but he supposed that Sharlayan was not built in a day after all.
 
 
 Putting aside his thoughts for another day, he focused on the tasks ahead of him.

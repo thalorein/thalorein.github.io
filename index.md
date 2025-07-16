@@ -25,7 +25,7 @@ title: Homepage
     <div class="character-header">
       <div class="character-text">
         <h2>Kotaro / 航太朗</h2>
-        <blockquote>"Let's visit my hometown one day."</blockquote>
+        <blockquote>"I made a promise on salt and blood. I'll sail to the ends o' the world 'fore I break it."</blockquote>
       </div>
       <img src="/assets/img/kotaro.jpg" alt="Kotaro portrait" class="profile-pic">
     </div>
@@ -60,7 +60,7 @@ title: Homepage
     <div class="character-header">
       <div class="character-text">
         <h2>F'ynn / フィンー</h2>
-        <blockquote>"What can you do in life without coin?"</blockquote>
+        <blockquote>"Trust will kill you, doubt will keep you sharp, and coin will keep you going."</blockquote>
       </div>
       <img src="/assets/img/fynn.jpg" alt="F'ynn portrait" class="profile-pic">
     </div>
