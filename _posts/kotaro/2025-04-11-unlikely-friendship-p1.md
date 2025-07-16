@@ -3,11 +3,12 @@ layout: post
 title: "The Unlikely Friendship (Part 1)"
 date: 2025-04-11
 categories: kotaro
+tag: post-arr
 ---
 
 > I originally wrote this as a 1k word draft but was pretty unhappy with how it turned out. <br/>
 > But then, I decided to revisit this and tried to split the story into 2 parts. I'm still not quite happy with it, especially since I find it rather difficult to elaborate on details that span such a long timeframe across a few major game patches. But it's a major part of Kotaro's journey, so I decided to publish what I've written as it is, after the changes.
-> <br/><br/>Setting: Post-ARR, during the Patch "Before the Fall"
+> <br/><br/>Setting: During the Patch "Before the Fall"
 {: .note }
 
 *Aymeric was bad, but at least he was cordial, even if he was hiding behind a politician's facade.* Kotaro thought bitterly, recalling the very first hostile parley he'd had with the Lord Commander of Isgard. He and Alphinaud had left the meeting feeling left out of their breadth, and throughly played by the politician. He hadn't had many good impressions of Ishgardians thus far, save for Haurchefant, who went out of his way to help them with their fallen airship, when he honestly didn't need to.

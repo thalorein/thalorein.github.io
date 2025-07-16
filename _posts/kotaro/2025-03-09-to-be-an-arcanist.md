@@ -3,10 +3,10 @@ layout: post
 title: "To be an Arcanist (co-authored with @duskaia)"
 date: 2025-03-09
 categories: kotaro
+tag: post-arr
 ---
 
 > Mikh'to belongs to my friend, duskaia. He's a Keeper of the Moon from the Black Shroud.
-> <br/><br/>Setting: Post-ARR
 {: .note }
 
 

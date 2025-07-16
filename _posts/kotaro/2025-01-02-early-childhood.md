@@ -3,6 +3,7 @@ layout: post
 title: "Early Childhood"
 date: 2025-01-02
 categories: kotaro
+tag: pre-arr
 ---
 
 Born as K'tiqa Tia, and hailing from the K tribe, he has loved roaming the grassy fields of Lower La Noscea, even as a child. He often played with a Hyur child about his age, who lived around the hills of Lower La Noscea. 

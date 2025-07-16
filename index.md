@@ -41,7 +41,10 @@ title: Homepage
     <ul>
       {% assign kotaro_posts = site.posts | where_exp:"post", "post.path contains '/kotaro/'" %}
       {% for post in kotaro_posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> </li>
+        <li>
+          <span class="post-tag">{{ post.tag }}</span>
+          <a href="{{ post.url }}">{{ post.title }}</a> 
+        </li>
       {% endfor %}
     </ul>
 
@@ -73,7 +76,10 @@ title: Homepage
     <ul>
       {% assign fynn_posts = site.posts | where_exp:"post", "post.path contains '/fynn/'" %}
       {% for post in fynn_posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> </li>
+        <li>
+          <span class="post-tag">{{ post.tag }}</span>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
       {% endfor %}
     </ul>
 
@@ -105,7 +111,10 @@ title: Homepage
     <ul>
       {% assign takuto_posts = site.posts | where_exp:"post", "post.path contains '/takuto/'" %}
       {% for post in takuto_posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> </li>
+        <li>
+          <span class="post-tag">{{ post.tag }}</span>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
       {% endfor %}
     </ul>
 

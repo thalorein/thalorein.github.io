@@ -3,6 +3,7 @@ layout: post
 title: "Background"
 date: 2025-01-01
 categories: kotaro
+tag: info
 ---
 
 ## Basics

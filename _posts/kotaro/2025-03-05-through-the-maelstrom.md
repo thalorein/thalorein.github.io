@@ -3,6 +3,7 @@ layout: post
 title: "Through the Maelstrom"
 date: 2025-03-05
 categories: kotaro
+tag: post-arr
 ---
 
 > I wanted to try doing a bit of unreliable narration in this story. Kota is still very inexperienced at this point in the game and so there are things that he should notice that he doesn't perceive.

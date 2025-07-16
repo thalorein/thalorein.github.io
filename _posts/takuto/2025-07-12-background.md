@@ -3,6 +3,7 @@ layout: post
 title:  "Background"
 date:   2025-07-12
 categories: takuto
+tag: info
 ---
 
 ## Basics

@@ -3,6 +3,7 @@ layout: post
 title: "The Pledge of the Two Warriors (authored by @kei_cordelle)"
 date: 2025-04-12
 categories: kotaro
+tag: post-arr
 ---
 
 > So, I commissioned this piece from @kei_cordelle and didn't feel right to just paste it here, so I'll link to the original piece published on AO3 <br/><br/>

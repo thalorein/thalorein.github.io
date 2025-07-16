@@ -119,6 +119,25 @@ section.post {
   margin: 1rem auto;
 }
 
+/* This is for the tag that appears per story in the character profile. */
+.post-tag {
+  display: inline-flex;
+  background-color: #3182ce;
+  color: white;
+  font-size: 0.65em;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  margin-right: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  width: 7em; /* fixed width */
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 /* --- Home Section --- */
 
 .character-links {

@@ -3,6 +3,7 @@ layout: post
 title:  "Ishgardian Justice"
 date:   2025-05-10
 categories: fynn
+tag: hw
 ---
 
 All he had heard was rumors off the mouth of a random Ishgardian citizen that he happened to meet off the streets. And yet he found his feet slowly carrying him towards his destination, like a moth drawn to a flame.
@@ -14,7 +15,9 @@ F’ynn wasn’t entirely sure what compelled him to walk to the Brume to visit 
 He thinks back on his time as a gladiator in the Ul'dahn Coliseum. He had participated in coliseum matches during his free time in order to earn extra coin- after all, life was hard enough in an arid desert city, devoid of all natural resources, and made more difficult with rampant corruption and nepotism. At least there, the Gladiators' guild existed to help gladiators who got into troubling injuries from their duels. But here in Ishgard? No such organisation existed as far as he could tell in the short time he was here. 
 
 
-He had been sent to Ishgard on a short errand by Papashan. Hoping that a change of scenery would give him a different perspective of life, he had agreed to the request, after all of the nonsense that he had been caught up with in Ul’dah. He reminisced on the original reason that he had chosen to learn the ways of the Paladins from the Sultansworn, the elite guards of the Sultana. Little did he expect getting embroiled in the affairs and plots of the Monetarists, a powerful faction in Ul’dahn politics. He usually made it a point not to get involved in things potentially related to the Monetarists, and so he could only sigh in resignation at the potentially poor choice he had made. It really was his fault for just wanting to improve his repertoire of swordsmanship techniques, nevermind that a lot of the problem lay with lousy Jenlyns, whom he was utterly bitter towards for no fault of his own except naivety. 
+He had been sent to Ishgard on a short errand by Papashan. One to find the truth of what happened to Solkzagyl, the previous head of the Sultansworn, and also to help with locating the whereabout of the Oathkeeper. If the Monetarists had managed to lay their hands on Jenlyns before, it was a possiblity that they could have been involved in the disappearance of the Oathkeeper too. And in finding the truth, they might find further links that could reveal more about the Sultana's death. While they had all known that the Monetarists had been the main culprit behind Nanamo's death, without more fact finding, none could concretely pin the blame on them.
+
+Also hoping that a change of scenery would give him a different perspective of life, he had agreed to the request, after all of the nonsense that he had been caught up with in Ul’dah. He reminisced on the original reason that he had chosen to learn the ways of the Paladins from the Sultansworn. Little had he expected getting embroiled in the affairs and plots of the Monetarists, a powerful faction in Ul’dahn politics. He usually made it a point not to get involved in things potentially related to the Monetarists, and so he could only sigh in resignation at the potentially poor choice he had made. It really was his fault for just wanting to improve his repertoire of swordsmanship techniques, nevermind that a lot of the problem lay with lousy Jenlyns, whom he was utterly bitter towards for no fault of his own except naivety. 
 
 
 He chanced a look at the sky, noting again that it was snowing, and the sky was dark and grey. Utterly miserable weather by to his standards. He slowly came to a dawning realisation that despite the extreme weather differences between Ul’dah and Ishgard, his outlook of life had not changed one bit.

@@ -3,6 +3,7 @@ layout: post
 title:  "Background"
 date:   2025-01-01
 categories: fynn
+tag: info
 ---
 
 ## Basics
@@ -10,6 +11,7 @@ categories: fynn
 - Age: 22 (post-ARR)
 - Height: 92cm
 - Deity: Nald'thal
+- Race: Dunesfolk, Lalafell
 - Hometown: The Silver Bazaar, Thanalan
 
 ## Timeline

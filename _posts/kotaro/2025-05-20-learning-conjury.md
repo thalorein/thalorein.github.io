@@ -3,11 +3,11 @@ layout: post
 title: "Learning Conjury (co-authored with @duskaia)"
 date: 2025-05-20
 categories: kotaro
+tag: post-hw
 ---
 
 > Mikh'to belongs to my friend, duskaia. He's a Keeper of the Moon from the Black Shroud. <br/><br/>
 > Kotaro has a strong grasp on Allagan-based arcanima but is generally poor at healing, as is also terrible at Nymian-based arcanima.
-> <br/><br/>Setting: Post-Heavensward
 {: .note }
 
 
