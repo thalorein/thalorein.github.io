@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In Memory Of"
-date: 2025-06-10
+date: 2025-06-15
 categories: kotaro
 tag: stb
 ---
